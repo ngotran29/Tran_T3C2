@@ -1,3 +1,23 @@
+
+<div align="center">
+     <img height="200" src="https://i.pinimg.com/originals/5b/59/b9/5b59b930e55668208b77cb9708a0fa3c.gif"  />
+  
+</div>
+<div align="center">
+    <h2>👋 Chào mọi người, mình là Ngô Trân</h2>
+  
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngotran29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ngotran29&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngotran29&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
 # Web Quản Lý Bệnh Viện
 
 ![logo](https://github.com/user-attachments/assets/e4439a33-bf19-4160-9122-c89a4f800c65)
@@ -17,8 +37,8 @@
 
 ## Công Nghệ Sử Dụng
 
-- **Frontend**: React
-- **Backend**: Node.js, MongoDB
+- Frontend: React
+- Backend: Node.js, MongoDB
 
 ## Hướng Dẫn Cài Đặt
 
