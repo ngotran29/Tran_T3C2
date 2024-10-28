@@ -43,28 +43,7 @@
 4. **Cài đặt các phụ thuộc cho Backend**
     ```bash
     cd server
-    npm install
-    ```
-
-5. **Chạy Backend**
-    ```bash
-    cd server
-    npm start
-    ```
-
-6. **Chạy Frontend**
-    ```bash
-    cd client
-    npm start
-    ```
-
-## Cách Sử Dụng
-
-Sau khi ứng dụng được khởi động, bạn có thể truy cập vào địa chỉ `http://localhost:3000` để bắt đầu sử dụng. Bạn có thể tạo tài khoản bệnh nhân, đặt lịch hẹn và thực hiện các thao tác quản lý khác.
-
-## Liên Hệ
-
-Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, xin vui lòng liên hệ qua [ngotran296yh@gmail]
+    npm inscom]
 
 ![logo](https://github.com/user-attachments/assets/e4439a33-bf19-4160-9122-c89a4f800c65)
 
