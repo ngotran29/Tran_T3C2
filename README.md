@@ -3,14 +3,22 @@
     <td>
       <p>Chào mọi người, mình là Ngô Trân! 🌟</p>
       <p>Hiện tại, mình đang theo học ngành công nghệ thông tin, nơi mình tìm thấy niềm đam mê sâu sắc với công nghệ và phát triển phần mềm. Trong suốt quá trình học tập, mình đã tham gia vào nhiều dự án thực tế, từ đó không chỉ tích lũy kiến thức mà còn rèn luyện kỹ năng làm việc nhóm và tư duy phản biện.</p>
-      <p>Một số dự án đáng nhớ mà mình đã thực hiện bao gồm: Web quản lí nhà trọ, web bán hàng, web quản lí phòng khám, app đặt </p>
+      <p>Một số dự án mà mình đã thực hiện bao gồm: Web quản lí nhà trọ, web bán hàng, web quản lí phòng khám, app đặt vé </p>
       <p>Mình đã làm việc với nhiều công nghệ như JavaScript, React, .NET, Firebase, HTML5, Java, MongoDB và Node.js. Mỗi công nghệ đều mang lại cho mình những góc nhìn mới và cơ hội phát triển.</p>
       <p>Mình rất mong muốn được kết nối với những người có cùng đam mê và chia sẻ kinh nghiệm. Nếu bạn muốn trao đổi ý tưởng hoặc hợp tác trong các dự án công nghệ, hãy liên hệ với mình qua:</p>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+       <a href="https://discord.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+</a>
+<a href="https://www.facebook.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+</a>
+<a href="https://www.gmail.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+<a href="https://www.instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+</a>
       </div>
     </td>
     <td style="text-align: center; vertical-align: top;">
