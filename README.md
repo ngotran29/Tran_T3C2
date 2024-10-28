@@ -64,7 +64,7 @@ Sau khi ứng dụng được khởi động, bạn có thể truy cập vào đ
 
 ## Liên Hệ
 
-Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, xin vui lòng liên hệ qua [ngotran296yh@gmail Quản Lý Bệnh Viện
+Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, xin vui lòng liên hệ qua [ngotran296yh@gmail]
 
 ![logo](https://github.com/user-attachments/assets/e4439a33-bf19-4160-9122-c89a4f800c65)
 
