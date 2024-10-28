@@ -45,8 +45,6 @@
     cd server
     npm inscom]
 
-![logo](https://github.com/user-attachments/assets/e4439a33-bf19-4160-9122-c89a4f800c65)
-
 
 ## Giới Thiệu
 
